@@ -1,2 +1,1 @@
-# techdegree-project-unit-1
-Number guessing name
+# Techdegree Project 1
